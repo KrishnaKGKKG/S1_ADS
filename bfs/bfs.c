@@ -1,5 +1,4 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include<stdio.h>
 
 #define MAXNODES 100
 
